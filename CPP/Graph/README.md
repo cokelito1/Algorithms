@@ -1,4 +1,4 @@
-# Graph Algorithms
+#Graph Algorithms
 
 ## Usage
 All the Graph algorithms have the input as node quantity then 
@@ -9,6 +9,14 @@ graph algorithms.
 ### Prim Algorithm
 Prim algorithm is useful to get the minimum spanning tree, it has a complexity
 of O(E + log V) with a fibonacci heap.
+
+### Dijkstra Algorithm
+The Dijkstra algorithm is useful to get the shortest path from a node to another, it has
+a complexity of O(E log V)
+
+### Floyd-Warshall Algorithm
+The Floyd-Warshall algorithm is useful to get all the shortest path between any node in a
+graph, it has a complexity of O(V^3)
 
 ### Depth First Search (DFS)
 The dfs algorithm is useful to search a graph following all the path, it has
