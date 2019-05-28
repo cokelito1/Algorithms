@@ -13,3 +13,7 @@ of O(E + log V) with a fibonacci heap.
 ### Depth First Search (DFS)
 The dfs algorithm is useful to search a graph following all the path, it has
 a complexity of O(V).
+
+### Breath First Search (BFS)
+The dfs algorithm is useful to search a graph following all the adjacent vertex
+on a graph, it has a complexity of O(V)
