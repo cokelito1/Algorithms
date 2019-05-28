@@ -7,5 +7,9 @@ from to <weight>. Weight is optional as is only needed on weighted
 graph algorithms.
 
 ### Prim Algorithm
-Prim algorithm is useful to get the minimum spanning tree, it has a running
-time of O(E + log V) with a fibonacci heap.
+Prim algorithm is useful to get the minimum spanning tree, it has a complexity
+of O(E + log V) with a fibonacci heap.
+
+### Depth First Search (DFS)
+The dfs algorithm is useful to search a graph following all the path, it has
+a complexity of O(V).
